@@ -1,0 +1,23 @@
+{
+  "name": "array-object",
+  "version": "1.0.0",
+  "description": "Use an object where an array is required (See examples)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen Ranjan Keshri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prkeshri/node-array-object.git"
+  },
+  "keywords": [
+    "array",
+    "object"
+  ],
+  "bugs": {
+    "url": "https://github.com/prkeshri/node-array-object/issues"
+  },
+  "homepage": "https://github.com/prkeshri/node-array-object#readme"
+}
