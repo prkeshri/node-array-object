@@ -21,7 +21,7 @@
 ## Install
 
 ```sh
-npm install array-object
+npm install array-object-alt
 ```
 
 ## Run tests
